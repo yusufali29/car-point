@@ -65,7 +65,9 @@ You only need a modern web browser. No package installation or build tools are r
 
 ## 🌐 Live Demo
 
-**Live Website:** Add your deployed website URL here.
+🚗 **Explore Car Point:** [View Live Website](https://yusufali29.github.io/car-point/)
+
+Visit the live website to explore the Car Point car buying and selling platform.
 
 ## 📸 Screenshots
 
